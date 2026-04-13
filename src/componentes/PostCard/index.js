@@ -1,5 +1,5 @@
-import { Link } from 'react-router-dom'
-import styles from './Post.module.css'
+import { Link }       from 'react-router-dom'
+import styles         from './Post.module.css'
 import BotaoPrincipal from 'componentes/BotaoPrincipal'
 
 export default function PostCard({ post }) {
