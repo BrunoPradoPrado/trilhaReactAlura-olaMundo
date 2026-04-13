@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Olá Mundo — Projeto React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descrição
 
-## Available Scripts
+Projeto desenvolvido durante a **trilha de estudos da Alura – Explore React com JavaScript**, com foco no aprendizado de **React Router** e na organização de aplicações React com múltiplas páginas.
 
-In the project directory, you can run:
+O objetivo do projeto é **praticar navegação entre rotas, páginas dinâmicas e reutilização de componentes**, utilizando JavaScript moderno e boas práticas do ecossistema React.
 
-### `npm start`
+Este repositório foi criado para **registrar e compartilhar o aprendizado adquirido ao longo da trilha**, servindo como material de estudo e evolução contínua.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tecnologias utilizadas
 
-### `npm test`
+- React
+- JavaScript (ES6+)
+- React Router DOM
+- CSS
+- Create React App
+- Git e GitHub
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Funcionalidades
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Navegação entre páginas com React Router
+- Rotas dinâmicas utilizando parâmetros de URL
+- Página de post individual
+- Renderização de conteúdo a partir de arquivos JSON
+- Uso de Markdown para conteúdo dos posts
+- Recomendação de outros posts ao final de cada post
+- Layout compartilhado entre páginas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Cursos concluídos
 
-### `npm run eject`
+Este projeto foi desenvolvido como parte do curso:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **React: desenvolvendo em React Router com JavaScript** — Alura
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Durante o curso foram explorados conceitos como:
+- Configuração e uso do React Router
+- Rotas aninhadas e layouts compartilhados
+- Parâmetros de rota com `useParams`
+- Navegação com `Link`
+- Organização de páginas e componentes
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Status do projeto
 
-## Learn More
+🎉✅ **Projeto concluído**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+O projeto *Olá Mundo* foi finalizado como parte da trilha **Explore React com JavaScript** da Alura.  
+Novos aprendizados da trilha continuam sendo aplicados em outros repositórios.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Objetivo do repositório
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este repositório tem caráter **educacional** e faz parte do meu processo de aprendizado em React, com foco em navegação por rotas, organização de código e construção de aplicações front-end modernas.
